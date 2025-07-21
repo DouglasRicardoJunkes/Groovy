@@ -1,4 +1,4 @@
-##📄 Script para utilização de API REST com obgetivo de inserção de informações em lote
+## 📄 Script para utilização de API REST com obgetivo de inserção de informações em lote
 
 
 
