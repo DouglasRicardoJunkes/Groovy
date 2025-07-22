@@ -70,9 +70,8 @@ lista.each{ item ->
 
 ### 🔄 `FONTES`
 
-        ➡️ Fontes do banco de dados utilizadas para buscar a informação e alimentar a variavel **varItem** com os IDs necessarios para alteração.
-
-  
+        ➡️ Fontes do banco de dados utilizadas para buscar a informação e alimentar ambas listas para comparação.
+      
 
 ### 🔄 `URL_API`
 
