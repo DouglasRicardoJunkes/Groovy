@@ -51,13 +51,12 @@ imprimir envio
 
 ### 🔄 `URL_API`
 
-        ➡️ Criar os parametros NumeroLancamento(Numero), NumeroParcela(Numero) e novadata(Data)
+        ➡️ Criar os parametros NumeroLancamento(Numero), NumeroParcela(Numero) e novadata(Data)        
+        ⚠️ utilizar /guias com o URL disponibilizado em documentação
   
-
 ### 🔄 `NomeAPI`
 
-        ➡️ Api a qual deseja realizar a requisição.
-  
+        ➡️ Api a qual deseja realizar a requisição.  
         ⚠️ Há casos raros onde a API possui - em seu nome, nestes casos dever ser inserido 'api-api'.
   
 
