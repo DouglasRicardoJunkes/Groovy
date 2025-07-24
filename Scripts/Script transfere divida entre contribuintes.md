@@ -13,11 +13,11 @@ fonteImoveis = FONTE_TRIBUTOS.imoveis;
 fonteDividas = FONTE_TRIBUTOS.dividas;
 
 //-------------------------------------------PARAMETROS-------------------------------------------//
-token = parametros.p_token.valor; 																				//parametro fixo Token entidade
-contrDe = fonteContribuinte.busca(criterio: "id = " + parametros.p_contrDe.selecionado, primeiro: true) 		//contribuinte origem
-contrPara = fonteContribuinte.busca(criterio: "id = " + parametros.p_contrPara.selecionado, primeiro: true) 	// contribuinte destino
-ano = parametros.p_ano.valor 																					//Anos divida
-imovel = fonteImoveis.busca(criterio: "id = " + parametros.p_imovel.selecionado, primeiro: true)  				//Codigo imovel
+token = parametros.p_token.valor; 																	
+contrDe = fonteContribuinte.busca(criterio: "id = " + parametros.p_contrDe.selecionado, primeiro: true) 
+contrPara = fonteContribuinte.busca(criterio: "id = " + parametros.p_contrPara.selecionado, primeiro: true)
+ano = parametros.p_ano.valor 
+imovel = fonteImoveis.busca(criterio: "id = " + parametros.p_imovel.selecionado, primeiro: true) 
 
 
 //-------------------------------------------LAYOUT----------------------------------------------//
